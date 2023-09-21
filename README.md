@@ -1,1 +1,1 @@
-A directory within my repository
+Stating to code today,so cool
